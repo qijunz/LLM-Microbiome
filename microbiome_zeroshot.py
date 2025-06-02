@@ -4,8 +4,8 @@
 #   2. output is the last hidden layer from LLM.
 #
 # Example:
-# $ python mars_zeroshot.py -m /data/qijun/meta-llama/Llama-3.1-8B -i mars_prompt_taxa.csv -o mars_llama3_zeroshot_taxa
-# $ python mars_zeroshot.py -m /data/qijun/gemma-7b -i mars_prompt_taxa.csv -o mars_gemma_zeroshot_taxa
+# $ python microbiome_zeroshot.py -m /data/qijun/meta-llama/Llama-3.1-8B -i mars_prompt_taxa.csv -o mars_llama3_zeroshot_taxa
+# $ python microbiome_zeroshot.py -m /data/qijun/gemma-7b -i mars_prompt_taxa.csv -o mars_gemma_zeroshot_taxa
 
 
 
